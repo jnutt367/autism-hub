@@ -8,5 +8,6 @@
 https://trello.com/b/kblDkyA2/autism-hub-a-place-to-find-what-ya-need-anywhere
 ## There is also a link to the this very github inside of said Trello board. They are one organism now muahahahaha! Ok anywho.
 ## The above is a Trello project management board that also tracks the progress from backlog to publication and deployment. 
-
+### Added VSCode MongoDB extension and connected with our connection string to the Atlas cluster. 
+## Sent connection string with proper permissions to Patty.  
 ## I believe this will be a MERN application but the jury is still out. We wil utilize the best solution that fits our needs when further investigated. 
